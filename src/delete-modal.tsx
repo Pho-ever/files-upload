@@ -21,7 +21,6 @@ const DeleteSegment = ({
     setIsModalOpen(false);
   };
 
-
   return (
     <div>
       <Button
